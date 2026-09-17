@@ -1,2 +1,2 @@
-# AIVOA.AI-QA-project-Artifacts
-Test cases and Bug report of AIVOA.AI platform.
+# AIVOA.AI-QA-project-Artifacts and Workflows
+Test cases, Bug report and QMS(Quality Management System) workflows of AIVOA.AI platform.
